@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38481#Scientific-American-Vol.-XXXVII.-No.-2.--New-Series.--July-14-1877Mechanics-Chemistry-And-Man_
 gutenberg_bookshelf: Scientific American
 gutenberg_issued: '2012-01-03'
 gutenberg_type: Text
